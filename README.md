@@ -1,7 +1,7 @@
 <h1 align="center">HELLO , I am Ananya Das <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 
-<h1> About Me</h1>
+<h1> About Me </h1>
 
 Hello, honoured to see you here😃.I am a CE Undergrad at the IIIT BBSR. Me being a Tech Enthusiast, Looking forward to learn new skills and add them to my list.
 <br>
